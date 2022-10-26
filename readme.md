@@ -20,6 +20,26 @@ Results Page
 
 ![](images/ResultsPage.png)
 
+**Activity 6**
+
+**User Story 1**
+
+![](images/UserStory1.PNG)
+
+![](images/PrototypeUserStory1.PNG)
+
+**User Story 2**
+
+![](images/UserStory2.PNG)
+
+![](images/PrototypeUserStory2.PNG)
+
+**User Story 3**
+
+![](images/UserStory3.PNG)
+
+![](images/PrototypeUserStory3.PNG)
+
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
 
